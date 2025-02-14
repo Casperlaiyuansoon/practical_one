@@ -12,7 +12,7 @@ class MainApp extends StatelessWidget {
     return MaterialApp(
       home: Scaffold(
         appBar:   AppBar(
-          title: const Text('HHello Flutter'),
+          title: const Text('HHHello Flutter'),
           backgroundColor: Colors.blue,
         ),
         body: Center(
